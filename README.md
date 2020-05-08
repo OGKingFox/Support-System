@@ -1,5 +1,7 @@
 # Support Forum System
 
+THIS IS OLD, AND UNMAINTAINED. DO NOT USE IN A LIVE ENVIRONMENT. WOULD NOT RECOMMEND.
+
 <b>Be warned</b>: this is a bit messy. but #yolo
 
 <p>This is a very simple support forum system. To install, you just need Php Tidy Extention, and PDO. 
